@@ -1,0 +1,16 @@
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\bin\Debug\net11.0\BuscarMinimoMaximo.exe
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\bin\Debug\net11.0\BuscarMinimoMaximo.deps.json
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\bin\Debug\net11.0\BuscarMinimoMaximo.runtimeconfig.json
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\bin\Debug\net11.0\BuscarMinimoMaximo.runtimeconfig.dev.json
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\bin\Debug\net11.0\BuscarMinimoMaximo.dll
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\bin\Debug\net11.0\BuscarMinimoMaximo.pdb
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.AssemblyInfoInputs.cache
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.AssemblyInfo.cs
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.csproj.CoreCompileInputs.cache
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.dll
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\refint\BuscarMinimoMaximo.dll
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.pdb
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMinimoMaximo.genruntimeconfig.cache
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\ref\BuscarMinimoMaximo.dll
+C:\Users\Dental_Teo\Documents\C#\BuscarMinimoMaximo\obj\Debug\net11.0\BuscarMi.2CB16282.Up2Date
