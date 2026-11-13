@@ -1,0 +1,16 @@
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\bin\Debug\net11.0\ConvertirMeses.exe
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\bin\Debug\net11.0\ConvertirMeses.deps.json
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\bin\Debug\net11.0\ConvertirMeses.runtimeconfig.json
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\bin\Debug\net11.0\ConvertirMeses.runtimeconfig.dev.json
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\bin\Debug\net11.0\ConvertirMeses.dll
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\bin\Debug\net11.0\ConvertirMeses.pdb
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.AssemblyInfoInputs.cache
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.AssemblyInfo.cs
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.csproj.CoreCompileInputs.cache
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.dll
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\refint\ConvertirMeses.dll
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.pdb
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ConvertirMeses.genruntimeconfig.cache
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\ref\ConvertirMeses.dll
+C:\Users\Dental_Teo\Documents\C#\ConvertirMeses\obj\Debug\net11.0\Converti.E9E8AB13.Up2Date
