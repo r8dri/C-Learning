@@ -27,6 +27,5 @@ class Program
             arreglo[i] = Convert.ToInt32(Console.ReadLine());
         }
         System.Console.WriteLine($"La suma absoluta de los numeros ingresados es: {GetAbsSum(arreglo)}");
-        
     }
 }
