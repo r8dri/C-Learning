@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertirMeses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977969943f980465f452d894206ccc7d54d49f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertirMeses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertirMeses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

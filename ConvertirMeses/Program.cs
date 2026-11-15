@@ -28,5 +28,6 @@ class Program
         var getMonth = new Program();
         var printMonth = getMonth.ObtenerMes(num);
         Console.WriteLine($"El mes es: {printMonth}");
+        Console.WriteLine("Muchas gracias");
     }
 }
