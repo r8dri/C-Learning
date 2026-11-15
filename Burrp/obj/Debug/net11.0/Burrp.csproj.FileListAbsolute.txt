@@ -1,0 +1,17 @@
+C:\Users\Dental_Teo\Documents\C#\Burrp\bin\Debug\net11.0\Burrp.exe
+C:\Users\Dental_Teo\Documents\C#\Burrp\bin\Debug\net11.0\Burrp.deps.json
+C:\Users\Dental_Teo\Documents\C#\Burrp\bin\Debug\net11.0\Burrp.runtimeconfig.json
+C:\Users\Dental_Teo\Documents\C#\Burrp\bin\Debug\net11.0\Burrp.runtimeconfig.dev.json
+C:\Users\Dental_Teo\Documents\C#\Burrp\bin\Debug\net11.0\Burrp.dll
+C:\Users\Dental_Teo\Documents\C#\Burrp\bin\Debug\net11.0\Burrp.pdb
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.AssemblyInfoInputs.cache
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.AssemblyInfo.cs
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.csproj.CoreCompileInputs.cache
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.sourcelink.json
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.dll
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\refint\Burrp.dll
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.pdb
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.genruntimeconfig.cache
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\ref\Burrp.dll
+C:\Users\Dental_Teo\Documents\C#\Burrp\obj\Debug\net11.0\Burrp.csproj.Up2Date
