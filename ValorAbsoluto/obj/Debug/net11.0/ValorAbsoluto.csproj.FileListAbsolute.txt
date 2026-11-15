@@ -1,0 +1,17 @@
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\bin\Debug\net11.0\ValorAbsoluto.exe
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\bin\Debug\net11.0\ValorAbsoluto.deps.json
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\bin\Debug\net11.0\ValorAbsoluto.runtimeconfig.json
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\bin\Debug\net11.0\ValorAbsoluto.runtimeconfig.dev.json
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\bin\Debug\net11.0\ValorAbsoluto.dll
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\bin\Debug\net11.0\ValorAbsoluto.pdb
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.AssemblyInfoInputs.cache
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.AssemblyInfo.cs
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.csproj.CoreCompileInputs.cache
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.sourcelink.json
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.dll
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\refint\ValorAbsoluto.dll
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.pdb
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbsoluto.genruntimeconfig.cache
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ref\ValorAbsoluto.dll
+C:\Users\Dental_Teo\Documents\C#\ValorAbsoluto\obj\Debug\net11.0\ValorAbs.32516F22.Up2Date
